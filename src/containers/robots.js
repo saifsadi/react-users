@@ -9,7 +9,7 @@ export const robots = [
     },
     {
         id : 2,
-        image : 'https://robohash.org/khalil',
+        image : 'https://avatars2.githubusercontent.com/u/41324313?s=460&v=4',
         name : 'Khalil Khan',
         username : 'khalil',
         email : 'khalil@xammin.com'
